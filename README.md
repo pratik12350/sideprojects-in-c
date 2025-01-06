@@ -6,6 +6,7 @@ So I am learning **C** by making small *side projects* and this is a mono-repo w
 1. [Snake game](/snake-game)
 2. [Digital Clock](/clock)
 3. [Colorfull progress bars](/progress-bar)
+4. [Banking System](/banking-system)
 
 these are simple things so please dont mind if i dont make enough checks or anything.
 
